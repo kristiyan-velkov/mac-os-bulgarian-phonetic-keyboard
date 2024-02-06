@@ -6,11 +6,15 @@ This repository is dedicated to the Bulgarian Traditional Phonetic Keyboard layo
 
 Tested in the latest MacOS version: **macOS 14 Sonoma**
 
+![](./bg-keyboard.png)
+
+
+
 ## Installation on macOS
 
 1. **Download the Layout File**
  
-   Download the `Bulgarian-Phonetic-KV.keylayout` file.
+   Download the `KV-BG-Phonetic.keylayout` file.
 
 2. **Install the Keyboard Layout**
 
@@ -24,11 +28,11 @@ Tested in the latest MacOS version: **macOS 14 Sonoma**
 
    - Open `System Preferences > Keyboard > Input Sources`.
    - Click the `+` button and navigate to the "Others" section at the bottom of the list.
-   - Look for **Bulgarian Phonetic KV** and click "Add" to select it as one of your input methods.
+   - Look for **BG - Phonetic** and click "Add" to select it as one of your input methods.
 
 ## Usage
 
-After restarting your Mac and adding the keyboard layout, select **Bulgarian Phonetic KV** from the input source options in your system menu bar to start using it.
+After restarting your Mac and adding the keyboard layout, select **BG - Phonetic** from the input source options in your system menu bar to start using it.
 
 ## Developer Support:
 
