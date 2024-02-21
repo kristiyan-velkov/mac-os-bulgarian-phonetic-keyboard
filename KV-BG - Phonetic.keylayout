@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created By: Kristiyan Velkov-->
-<!--Last edited by Ukelele version 377 on 2024-02-06 at 19:12 (EET)-->
+<!--Last edited by Ukelele version 387 on 2024-02-21 at 18:38 (EET)-->
 <keyboard group="7" id="19943" name="BG - Phonetic" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -1261,7 +1261,7 @@
             <when state="3" output="®"/>
         </action>
         <action id="a34">
-            <when state="none" output="|"/>
+            <when state="none" output="Ь"/>
             <when state="1" output="Ў"/>
         </action>
         <action id="a35">
@@ -1328,7 +1328,7 @@
             <when state="1" output="ћ"/>
         </action>
         <action id="a7">
-            <when state="none" output="\"/>
+            <when state="none" output="ь"/>
             <when state="1" output="ў"/>
         </action>
         <action id="a8">
