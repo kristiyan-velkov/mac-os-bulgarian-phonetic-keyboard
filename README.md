@@ -10,11 +10,31 @@ Tested in the latest MacOS version: **macOS 14 Sonoma**
 
 
 
+## Keyboard Layout Variants
+
+This repository includes two keyboard layout files:
+
+- **`KV-BG - Phonetic.keylayout`** - For standard ANSI keyboards (most US MacBooks and keyboards)
+- **`KV-BG - Phonetic ISO.keylayout`** - For ISO keyboards (European MacBooks and external keyboards)
+
+### Which layout should I use?
+
+**Use the ISO layout if:**
+- You have a European MacBook or external keyboard with an ISO layout
+- The key to the left of "Z" is larger and positioned differently
+- You're experiencing issues with the letter **ю** (yu) not appearing when pressing the key to the left of "1"
+
+**Use the standard layout if:**
+- You have a US MacBook or ANSI keyboard
+- The key to the left of "1" works correctly for **ю** (yu)
+
+The ISO layout fixes the missing **ю** letter issue that many Bulgarian Mac users with ISO keyboards experience.
+
 ## Installation on macOS
 
 1. **Download the Layout File**
  
-   Download the `KV-BG-Phonetic.keylayout` file.
+   Download either `KV-BG - Phonetic.keylayout` (for ANSI keyboards) or `KV-BG - Phonetic ISO.keylayout` (for ISO keyboards) based on your keyboard type.
 
 2. **Install the Keyboard Layout**
 
